@@ -13,12 +13,12 @@ li>
 
 <h3 style="font-family: cursive"> Here are some screenshots:  👇</h3>
 
-<img src="images/on-going.png" alt="Game-is-on" width="430" />
+<img src="images/on-going.png" alt="Game-is-on" width="400" />
 
 <br/>
 
 `After the end of the quiz , it displays the final score out of total questions`
 <br/>
 
-<img src="images/final.png" alt="game-off" width="430" />
+<img src="images/final.png" alt="game-off" width="400" />
 
